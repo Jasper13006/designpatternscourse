@@ -3,6 +3,7 @@
  * 
  */
 
+
 class Subject {
 
     constructor() {
@@ -49,3 +50,5 @@ s.subscribe(o3);
 function change() {
     s.notify(myText.value);
 }
+
+
