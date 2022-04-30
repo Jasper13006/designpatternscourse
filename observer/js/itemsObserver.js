@@ -1,3 +1,4 @@
+/*
 class Subject {
 
     constructor() {
@@ -74,3 +75,4 @@ function add() {
     const name = txtName.value;
     items.add(name);
 }
+*/
