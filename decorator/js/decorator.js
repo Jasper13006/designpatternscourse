@@ -6,6 +6,7 @@
  */
 
 // component
+/*
 class ProductComponent {
     constructor(name) {
         this.name = name;
@@ -91,3 +92,5 @@ console.log(product.getDetail());
 // decorator 3 con decorator 2 con decorator 1
 const htmlProductDecorator = new HTMLProductDecorator(product);
 myDiv.innerHTML = htmlProductDecorator.getDetail();
+
+*/
