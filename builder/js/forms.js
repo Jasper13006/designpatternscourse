@@ -133,16 +133,16 @@ const formMail = frmBuilder.setAction("send.php")
 form2.innerHTML = formMail.getContent();
 
 // director 
-// creación de form 1 con director
-const director = new FormDirector(frmBuilder);
-director.createPeopleForm();
-form3.innerHTML = frmBuilder.build().getContent();
+// // creación de form 1 con director
+// const director = new FormDirector(frmBuilder);
+// director.createPeopleForm();
+// form3.innerHTML = frmBuilder.build().getContent();
 
-// creación de form 2 con director
-director.createPeopleForm();
-form4.innerHTML = frmBuilder.build().getContent();
+// // creación de form 2 con director
+// director.createPeopleForm();
+// form4.innerHTML = frmBuilder.build().getContent();
 
-// creación de form 3 con director
-director.createContactForm();
-form5.innerHTML = frmBuilder.build().getContent();
+// // creación de form 3 con director
+// director.createContactForm();
+// form5.innerHTML = frmBuilder.build().getContent();
 
