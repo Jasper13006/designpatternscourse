@@ -14,3 +14,11 @@ class SingletonTS {
 
 const singleton = SingletonTS.getInstance();
 console.log(singleton);
+const singleton1 = SingletonTS.getInstance();
+console.log(singleton1);
+const singleton2 = SingletonTS.getInstance();
+console.log(singleton2);
+const singleton3 = SingletonTS.getInstance();
+console.log(singleton3);
+const singleton4 = SingletonTS.getInstance();
+console.log(singleton4);
